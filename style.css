@@ -1,0 +1,117 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+form {
+    max-width: 600px;
+    margin: auto;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ccc; /* Add border for labels */
+    padding-bottom: 5px;
+}
+
+input, select {
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc; /* Add border for input fields */
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+/* Template 1 */
+#template1 {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#template1 h1 {
+    color: #333;
+}
+
+#template1 p {
+    color: #555;
+}
+
+/* Template 2 */
+#template2 {
+    background-color: #e6f7ff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#template2 h1 {
+    color: #0066cc;
+}
+
+#template2 p {
+    color: #333;
+}
+/* Template 3 */
+#template3 {
+    background-color: #ffd699;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#template3 h1 {
+    color: #e65c00;
+}
+
+#template3 p {
+    color: #996633;
+}
+
+/* Template 4 */
+#template4 {
+    background-color: #d9ead3;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#template4 h1 {
+    color: #339900;
+}
+
+#template4 p {
+    color: #006600;
+}
+
+/* Template 5 */
+#template5 {
+    background-color: #ffe6e6;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#template5 h1 {
+    color: #ff4d4d;
+}
+
+#template5 p {
+    color: #cc0000;
+}
+
